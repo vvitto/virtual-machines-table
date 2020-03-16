@@ -15,9 +15,13 @@
         "node-sass": "^4.13.1",
         "prettysize": "^2.0.0",
 <<<<<<< HEAD
+<<<<<<< HEAD
         "prop-types": "^15.7.2",
 =======
 >>>>>>> fixed pritter formatting
+=======
+        "prop-types": "^15.7.2",
+>>>>>>> Refactored ui on antd design lib
         "react": "^16.12.0",
         "react-dom": "^16.12.0",
         "react-router-dom": "^5.1.2",

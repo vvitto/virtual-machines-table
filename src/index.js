@@ -7,6 +7,7 @@ import ReactDOM from "react-dom";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 import React from 'react';
 import ReactDOM from 'react-dom';
@@ -17,6 +18,8 @@ import './App.scss';
 =======
 import "./App.scss";
 >>>>>>> fixed pritter formatting
+=======
+>>>>>>> Refactored ui on antd design lib
 
 ReactDOM.render(<App />, document.getElementById("root"));
 
