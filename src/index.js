@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> fixed pritter formatting
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
+<<<<<<< HEAD
 =======
 import React from 'react';
 import ReactDOM from 'react-dom';
@@ -10,6 +14,9 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import './App.scss';
 >>>>>>> Refactored login page
+=======
+import "./App.scss";
+>>>>>>> fixed pritter formatting
 
 ReactDOM.render(<App />, document.getElementById("root"));
 
